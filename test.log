@@ -1,0 +1,12 @@
+Jun 29 12:14:20 test[248]: perfBreak:{"func":"init","line":242,"ppid":1,"pid":248,"tid":248,"flag":0,"time":1624968860527,"range":"init"}
+Jun 29 12:14:20 test[248]: perfBreak:{"func":"start","line":545,"ppid":1,"pid":248,"tid":248,"flag":1,"time":1624968860592,"range":"init"}
+Jun 29 12:14:20 test[248]: perfBreak:{"func":"start","line":552,"ppid":1,"pid":248,"tid":248,"flag":0,"time":1624968860592,"range":"start"}
+Jun 29 12:14:20 test[248]: perfBreak:{"func":"start","line":562,"ppid":1,"pid":248,"tid":248,"flag":1,"time":1624968860604,"range":"start"}
+Jun 29 12:14:20 test[248]: perfBreak:{"func":"start","line":552,"ppid":1,"pid":248,"tid":248,"flag":0,"time":1624968860605,"range":"addtest"}
+Jun 29 12:14:20 test[344]: perfBreak:{"func":"test1","line":283,"ppid":248,"pid":344,"tid":344,"flag":0,"time":1624968860608,"range":"test1"}
+Jun 29 12:14:20 test[344]: perfBreak:{"func":"test1","line":313,"ppid":248,"pid":344,"tid":344,"flag":0,"time":1624968860611,"range":"testlog"}
+Jun 29 12:14:20 test[344]: perfBreak:{"func":"test1","line":315,"ppid":248,"pid":344,"tid":344,"flag":1,"time":1624968860684,"range":"testlog"}
+Jun 29 12:14:20 test[344]: perfBreak:{"func":"init","line":263,"ppid":248,"pid":344,"tid":344,"flag":1,"time":1624968860685,"range":"test1"}
+Jun 29 12:14:21 test[249]: perfBreak:{"func":"test2","line":199,"ppid":1,"pid":249,"tid":249,"flag":0,"time":1624968861050,"range":"test2"}
+Jun 29 12:14:21 test[249]: perfBreak:{"func":"test3","line":784,"ppid":1,"pid":249,"tid":249,"flag":1,"time":1624968861055,"range":"test2"}
+Jun 29 12:14:21 test[248]: perfBreak:{"func":"start","line":562,"ppid":1,"pid":248,"tid":248,"flag":1,"time":1624968861616,"range":"addtest"}
